@@ -88,50 +88,50 @@ REQUIRED_ENV_VARS = {
 
 1. Validación de Variables de Entorno
 
-- Comprobar credenciales necesarias de Pushover al iniciar
-- Proporcionar mensajes de error claros si falta alguna configuración
-- Permitir una degradación controlada si las notificaciones no están disponibles
+- [] Comprobar credenciales necesarias de Pushover al iniciar
+- [] Proporcionar mensajes de error claros si falta alguna configuración
+- [] Permitir una degradación controlada si las notificaciones no están disponibles
 
 2. Manejo de Errores de Red
 
-- Capturar y registrar errores de la API de Pushover
-- Implementar lógica de reintentos para fallos transitorios
-- Continuar con la funcionalidad del chat incluso si fallan las notificaciones
+- [] Capturar y registrar errores de la API de Pushover
+- [] Implementar lógica de reintentos para fallos transitorios
+- [] Continuar con la funcionalidad del chat incluso si fallan las notificaciones
 
 3. Manejo de Errores en Ejecución de Herramientas
 
-- Validar los argumentos de las herramientas antes de ejecutar
-- Manejar excepciones en las funciones de herramientas
-- Retornar respuestas de error significativas al LLM
-- Estrategia de Pruebas
+- [] Validar los argumentos de las herramientas antes de ejecutar
+- [] Manejar excepciones en las funciones de herramientas
+- [] Retornar respuestas de error significativas al LLM
+- [] Estrategia de Pruebas
 
 1. Pruebas Unitarias
 
-- Probar la función push con credenciales válidas e inválidas
-- Probar funciones de herramientas con varios escenarios de entrada
-- Probar rutas de manejo de errores
+- [x] Probar la función push con credenciales válidas e inválidas
+- [] Probar funciones de herramientas con varios escenarios de entrada
+- [] Probar rutas de manejo de errores
 
 2. Pruebas de Integración
 
-- Probar el flujo completo desde la llamada a la herramienta por el LLM hasta la notificación
-- Probar escenarios de error (fallos de red, credenciales inválidas)
-- Verificar que el chat continúe funcionando cuando las notificaciones fallan
+- [x] Probar el flujo completo desde la llamada a la herramienta por el LLM hasta la notificación
+- [] Probar escenarios de error (fallos de red, credenciales inválidas)
+- [] Verificar que el chat continúe funcionando cuando las notificaciones fallan
 
 3. Pruebas Manuales
 
-- Verificar que las notificaciones aparezcan en dispositivos móviles
-- Probar con interacciones reales de usuarios
-- Validar que los mensajes de error sean útiles
-- Enfoque de Implementación
+- [x] Verificar que las notificaciones aparezcan en dispositivos móviles
+- [x] Probar con interacciones reales de usuarios
+- [] Validar que los mensajes de error sean útiles
+- [] Enfoque de Implementación
 
 * Fase 1: Corregir Errores Críticos
 
-- Corregir el error tipográfico en la variable de entorno PUSHOVER_TOKEN
-- Corregir el nombre de la función de record_unknow_question a record_unknown_question
-- Actualizar el esquema JSON para que coincida con el nombre corregido
+- [x] Corregir el error tipográfico en la variable de entorno PUSHOVER_TOKEN
+- [x] Corregir el nombre de la función de record_unknow_question a record_unknown_question
+- [x] Actualizar el esquema JSON para que coincida con el nombre corregido
 
 * Fase 2: Añadir Manejo de Errores
 
-- Mejorar la función push con validación y manejo de errores
-- Añadir manejo de errores a las funciones de herramientas
-- Mejorar el manejo de errores del método handle_tool_call
+- [] Mejorar la función push con validación y manejo de errores
+- [] Añadir manejo de errores a las funciones de herramientas
+- [] Mejorar el manejo de errores del método handle_tool_call
