@@ -10,6 +10,7 @@ El diseño se enfoca en corregir los errores identificados en el sistema de noti
 
 El sistema mantiene su arquitectura actual con las siguientes mejoras:
 
+```markdown
 ChatBot (Clase Me)
 ├── Integración con OpenAI
 ├── Sistema de Manejo de Herramientas
@@ -19,6 +20,7 @@ ChatBot (Clase Me)
 ├── Configuración del Entorno
 ├── Manejo de Errores
 └── Registro de Logs
+```
 
 
 ## Componentes e Interfaces
