@@ -1,0 +1,117 @@
+Qué es Analaizer.digital
+
+Plataforma (en español) de analítica web y programación con cursos y masterclasses (GA4, GSC, GTM, SEO, scraping, automatización, etc.). También mencionan un set de herramientas propio llamado AnalAITool. 
+AnalAIzer Digital
+
+Precios y acceso
+
+Membresía VIP mensual: 25 €/mes (impuestos incluidos). 
+AnalAIzer Digital
+
+Membresía VIP anual: 275 €/año (impuestos incluidos; indican “un mes gratis”). 
+AnalAIzer Digital
+
+Nota: En las fichas de varios cursos figura “Gratis” una vez logueado/inscrito; la web vende la membresía como producto principal. Ejemplos de cursos con etiqueta “Gratis”: GA4 intermedio, Sheets, etc. 
+AnalAIzer Digital
++1
+
+Catálogo (selección con descripción y profesor)
+
+A continuación, los cursos/masterclass visibles en el listado público y sus fichas:
+
+Curso de GA4 intermedio — Javi (22 ene 2025)
+Contenidos: creación de eventos en GA4 (módulo con 4 temas). Marcado como Gratis. 
+AnalAIzer Digital
+
+Curso de Google Sheets — Javi (4 dic 2024)
+Fundamentos, funciones (SUM, VLOOKUP, IF…), tablas dinámicas, gráficos y automatización (macros y Apps Script). Gratis (1 lección, 4 temas). 
+AnalAIzer Digital
+
+Curso de Regex (nivel básico) — Javi (20 nov 2024)
+Repeticiones, avanzado, Regex con IA + 1 cuestionario. Gratis. 
+AnalAIzer Digital
+
+Clase de XPath (práctica) — Javi (15 ene 2025)
+1 lección/tema, sesión práctica. Gratis. (Además, hay una entrada de blog que contextualiza XPath en el sitio). 
+AnalAIzer Digital
++1
+
+Fundamentos de Google Tag Manager (GTM) — Jose Gilarte (25 jul 2024)
+Contenedores, etiquetas, disparadores, Data Layer, práctica con GA4; 10 temas. Gratis. 
+AnalAIzer Digital
+
+SEO Técnico: Auditoría Web — Sergio Cordero (30 ene 2025)
+Revisiones de estructura, interlinking, rendimiento, móvil y seguridad; 1 lección/tema. Gratis. 
+AnalAIzer Digital
+
+Arquitectura web y enlazado interno — Sergio Cordero (24 sep 2025)
+Estructura jerárquica, interlinking estratégico y buenas prácticas SEO. Gratis. 
+AnalAIzer Digital
+
+Curso SEO (profesional) — Sergio Cordero (20 ago 2025)
+Cómo funciona Google, intención de búsqueda, keyword research 2025, arquitectura, rastreo/indexación, on-page, y masterclass de auditoría. Gratis (4 temas listados). 
+AnalAIzer Digital
+
+Masterclass: Agentes Inteligentes — Txetxu (12 mar 2025)
+1 lección/tema, marcada como Masterclass y Gratis. 
+AnalAIzer Digital
+
+Masterclass: Comparador de entidades (semántica de contenidos) — Jorge Hudson (28 feb 2025)
+1 lección/tema, enfoque en semántica para contenido. Gratis. 
+AnalAIzer Digital
+
+Masterclass: Uso de la API Analytics Data (GA4) — (página de masterclass)
+Nivel avanzado, automatización de reportes y dashboards, materiales (GitHub y vídeo).
+
+Masterclass: Automatización con Make — Jose Gilarte (29 dic 2024)
+Ejemplos prácticos de automatización por proyectos. 
+AnalAIzer Digital
+
+Masterclass: Web Scraping — Jose Gilarte (5 oct 2024)
+Tendencias, consideraciones éticas/legales e integración de datos. 
+AnalAIzer Digital
+
+En el listado general de cursos también aparecen los bloques de “Fundamentos GA4, GSC y GTM” y el énfasis en AnalAITool, como parte del itinerario formativo de la web. 
+AnalAIzer Digital
+
+Docentes que aparecen impartiendo
+
+Javi Lázaro — perfil público en “Profesores”; experiencia en SEO, CRO, LinkedIn Ads, analítica y automatización con Python. Imparte varios cursos (GA4 intermedio, Sheets, Regex, XPath…). 
+AnalAIzer Digital
++4
+AnalAIzer Digital
++4
+AnalAIzer Digital
++4
+
+Sergio Cordero — SEO (auditoría, arquitectura/enlazado interno, curso SEO profesional). 
+AnalAIzer Digital
++2
+AnalAIzer Digital
++2
+
+Jose Gilarte — Tag Manager (GTM), Make y Web Scraping (masterclasses vinculadas). 
+AnalAIzer Digital
++2
+AnalAIzer Digital
++2
+
+Txetxu — Masterclass de Agentes Inteligentes. 
+AnalAIzer Digital
+
+Rocío García Algora — Masterclass de marca personal/posicionamiento de marca. 
+AnalAIzer Digital
+
+Jorge Hudson — Masterclass de semántica y entidades para contenidos. 
+AnalAIzer Digital
+
+Masterclasses / Eventos (agenda publicada)
+
+En la sección de Eventos se anunciaron para 2025 (fechas ya pasadas a día de hoy, 27 sep 2025) sesiones como:
+David Caraballo (IA para todo), Pelayo Puerta (IA Causal), Rocío G. Algora (marca personal), David M. Pino (conector de Bing Webmaster Tools). 
+AnalAIzer Digital
+
+futuras clases:
+fundamentos de Python , Big data con Python, JavaScript, TypeScript, SQL
+Automatización con N8N y herramientas IA
+MCP y Agentes IA con frameworks como SDK, ADK, fundations, crewAI
